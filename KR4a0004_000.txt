@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 楚辭集注
-#+DATE: 2020-03-31 11:34:06.187195
+#+DATE: 2020-03-31 11:34:06.300423
 #+PROPERTY: ID KR4a0004
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR4a0004_WYG_000-1a>¶
 　　欽定四庫全書　　　　　集部一¶
